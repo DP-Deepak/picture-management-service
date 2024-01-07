@@ -14,7 +14,7 @@ Before running the application, ensure you have the following installed:
 
 ### Installation
 
-1. Clone the repository:
+1. Clone the repository: `git clone https://github.com/DP-Deepak/picture-management-service.git`
 2. cd picture-management-service
 3. npm install
 4. npm run start
